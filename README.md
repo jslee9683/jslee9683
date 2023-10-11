@@ -9,6 +9,7 @@
 - [CompTIA Network+](https://www.credly.com/badges/0fe2f708-bffb-409b-aeaa-149afde87d40/linked_in_profile)
 - [CompTIA IT Operations Specialist – CIOS Stackable Certification](https://www.credly.com/badges/2ecb7358-f1f1-4e6b-8c28-a36f80baf794/linked_in_profile)
 - [CompTIA A+](https://www.credly.com/badges/247548b8-efa1-407e-916c-3f8287c86149/linked_in_profile)
+- ITIL Foundation in IT Service Management
 
 <h2> 🤳 Connect with me:</h2>
 

@@ -3,6 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - [Active Directory Home Lab](https://github.com/jslee9683/ActiveDirectoryHomeLab)
+- [Active Directory User Population PowerShell Script](https://github.com/jslee9683/ActiveDirectory_PowerShell)
 
 
 <h2>📄 Certifications:</h2>

@@ -1,4 +1,4 @@
-<h1>Name is Ji Su, Nice to Meet You!
+<h1>Name's Ji Su, Nice to Meet You!
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
